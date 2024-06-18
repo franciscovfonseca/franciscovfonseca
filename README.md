@@ -1,7 +1,7 @@
 <h1>Hi, I'm Francisco, a <a href="https://linkedin.com/in/franciscovfonseca">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>Microsoft Azure:</h3>
+<h3>☁️ Microsoft Azure:</h3>
 
 - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/franciscovfonseca/Active-Directory-Lab/blob/main/README.md)
 - [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
