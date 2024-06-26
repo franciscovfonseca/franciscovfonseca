@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>☁️ Microsoft Azure:</h3>
 
-- 🌐 [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/franciscovfonseca/Active-Directory-Lab/blob/main/README.md)
+- [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/franciscovfonseca/Active-Directory-Lab/blob/main/README.md)
 - 💻 [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <h3>🔐 Cybersecurity:</h3>
@@ -12,10 +12,11 @@
 - [Setting Up Vulnerable VMs in Azure](https://github.com/franciscovfonseca/Setting-Up-Vulnerable-VMs-in-Azure/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
 
-<h3>🐍 Python:</h3>
+<h3>🌐 Active Directory:</h3>
 
-- [Enhancing SOC Operations: Scalable IP Address Management w/ Python]
-- [VirusTotal API Analysis Tool]
+- 1️⃣ [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
+- 2️⃣ [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+- 3️⃣ [Active Directory: User Generation](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
   
 <h2>🏅 Certfications:</h2>
 
