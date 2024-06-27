@@ -23,9 +23,7 @@
 <h2>🏅 Certifications:</h2>
 
   - [Azure Security Engineer Associate - **AZ-500**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
-  
   - [Azure AI Fundamentals - **AI-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
-  
   - [Microsoft Security, Compliance, and Identity Fundamentals - **SC-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
 <br>
 
