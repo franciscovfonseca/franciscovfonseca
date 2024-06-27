@@ -17,37 +17,27 @@
 - 1️⃣ [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
 - 2️⃣ [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
 - 3️⃣ [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
-  
-<h2>🏅 Certfications:</h2>
+<br>
 
-  - ISC2 SSCP
-  - TryHackMe SOC Analyst I
-  - [CompTIA Pentest+](https://www.credly.com/badges/490e8b3b-d8bf-4c83-91e5-dbea7e50f84f/public_url)
-  - [CompTIA CySA+](https://www.credly.com/badges/0943de12-761a-45fb-9262-33a020077973/public_url)
-  - [CompTIA Security+](https://www.credly.com/badges/b63222e6-829e-4d65-91b1-771a509b8771/public_url)
-  - [CompTIA Network+](https://www.credly.com/badges/82f685bf-6c82-4a99-bc7b-a7d4a5494e62/public_url)
-  - [CompTIA A+](https://www.credly.com/badges/00f78f43-9de9-45cc-90f5-11dfb1184096/public_url)
-  - [Azure Fundamentals - AZ900](https://www.credly.com/badges/ea1e9942-a8cf-4fa1-b867-85389822aa97/public_url)
-  - LPI Linux Essentials
-  - ITIL 4 Foundation
-  - [Azure Security Engineer Associate - AZ-500](https://www.credly.com/badges/ea1e9942-a8cf-4fa1-b867-85389822aa97/public_url)
-  - Microsoft Security, Compliance, and Identity Fundamentals - SC-900
-  - Azure AI Fundamentals - AI-900
+  
+<h2>🏅 Certifications:</h2>
+
+  - [Azure Security Engineer Associate - **AZ-500**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
+  
+  - [Azure AI Fundamentals - **AI-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
+  
+  - [Microsoft Security, Compliance, and Identity Fundamentals - **SC-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
+<br>
+
 
 
 <div>
 <img src="https://img.shields.io/badge/-AZ--500-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-AI--900-ffffff?&style=for-the-badge&logo=Microsoft&logoColor=0078D4" />
 <img src="https://img.shields.io/badge/-AI--900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<div> 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+<br>
+
 
 <h2> 🤳 Connect with me:</h2>
 
