@@ -4,7 +4,6 @@
 <h3>☁️ Microsoft Azure:</h3>
 
 - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-- [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/franciscovfonseca/Active-Directory-Lab/blob/main/README.md)
 - [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <h3>🔐 Cybersecurity:</h3>
@@ -17,7 +16,7 @@
 
 - 1️⃣ [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
 - 2️⃣ [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
-- 3️⃣ [Active Directory: User Generation](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
+- 3️⃣ [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
   
 <h2>🏅 Certfications:</h2>
 
