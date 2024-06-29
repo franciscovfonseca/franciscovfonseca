@@ -14,17 +14,17 @@
 
 <h3>🌐 Active Directory:</h3>
 
-- 1️⃣ [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
-- 2️⃣ [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
-- 3️⃣ [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
+1. [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
+2. [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+3. [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
 <br>
 
   
 <h2>🏅 Certifications:</h2>
 
-  - [Azure Security Engineer Associate - **AZ-500**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
-  - [Azure AI Fundamentals - **AI-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
-  - [Microsoft Security, Compliance, and Identity Fundamentals - **SC-900**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
+  - [**AZ-500** - **Azure Security Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
+  - [**AI-900** - **Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
+  - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
 <br>
 
 
