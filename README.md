@@ -30,15 +30,15 @@
 
 
 <div>
-<img src="https://img.shields.io/badge/-AZ--500-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-AI--900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42"><img src="https://img.shields.io/badge/-AZ--500-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42"><img src="https://img.shields.io/badge/-AI--900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42"><img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 <br>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/franciscovfonseca/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [linkedin]: https://linkedin.com/in/franciscovfonseca
