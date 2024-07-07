@@ -4,7 +4,7 @@
 <h3>☁️ Microsoft Azure:</h3>
 
 - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-- [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
+- [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <h3>🔐 Cybersecurity:</h3>
 
