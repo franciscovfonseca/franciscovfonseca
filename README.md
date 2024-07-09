@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>☁️ Microsoft Azure:</h3>
 
+- [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
 - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
 
 
