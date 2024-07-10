@@ -1,17 +1,16 @@
 <h1>Hi, I'm Francisco, a <a href="https://linkedin.com/in/franciscovfonseca">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>☁️ Microsoft Azure:</h3>
-
-- [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
-- [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
-
-
 <h3>🔐 Cybersecurity:</h3>
 
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
 - [Setting Up Vulnerable VMs in Azure](https://github.com/franciscovfonseca/Setting-Up-Vulnerable-VMs-in-Azure/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
+
+<h3>☁️ Microsoft Azure:</h3>
+
+- [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
+- [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
 
 <h3>💻 Information Technology:</h3>
 
