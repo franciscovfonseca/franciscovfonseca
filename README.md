@@ -10,6 +10,7 @@
 <h3>☁️ Microsoft Azure:</h3>
 
 - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
+- [Configure Azure Disk Encryption](https://github.com/franciscovfonseca/Configure-Azure-Disk-Encryption/blob/main/README.md)
 - [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
 
 <h3>💻 Information Technology:</h3>
