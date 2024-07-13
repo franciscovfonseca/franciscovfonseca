@@ -9,9 +9,21 @@
 
 <h3>☁️ Microsoft Azure:</h3>
 
+  <details close> 
+  
+**<summary> AZ-500 - Azure Security Engineer Associate Labs</summary>**
+
 - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
+- [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
 - [Configure Azure Disk Encryption](https://github.com/franciscovfonseca/Configure-Azure-Disk-Encryption/blob/main/README.md)
 - [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
+
+  </details>
+
+
+
+
+
 
 <h3>💻 Information Technology:</h3>
 
