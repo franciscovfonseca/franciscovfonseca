@@ -11,7 +11,7 @@
 
   <details close> 
   
-**<summary>Azure Security Labs (AZ-500)</summary>**
+***<summary>Azure Security Labs (AZ-500)</summary>***
 
   - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
   - [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
