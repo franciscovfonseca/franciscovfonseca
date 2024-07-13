@@ -11,7 +11,7 @@
 
   <details close> 
   
-**<summary> AZ-500 - Azure Security Engineer Associate Labs</summary>**
+**<summary> 💡 AZ-500 - Azure Security Labs</summary>**
 
 - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
 - [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
