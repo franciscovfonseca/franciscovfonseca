@@ -7,6 +7,17 @@
 - [Setting Up Vulnerable VMs in Azure](https://github.com/franciscovfonseca/Setting-Up-Vulnerable-VMs-in-Azure/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
 
+
+<details close> 
+  
+**<summary>Vulnerability Management</summary>**
+
+  - [Vulnerability Management with Nessus](https://github.com/franciscovfonseca/Vulnerability-Management-with-Nessus/blob/main/README.md)
+
+</details>
+
+<h2></h2>
+
 <h3>☁️ Microsoft Azure:</h3>
 
   <details close> 
@@ -27,13 +38,14 @@
 
   </details>
 
-
-
+<h2></h2>
 
 <h3>💻 Information Technology:</h3>
 
 - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
 - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
+
+<h2></h2>
 
 <h3>🌐 Active Directory:</h3>
 
