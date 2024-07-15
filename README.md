@@ -3,55 +3,52 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>🔐 Cybersecurity:</h3>
 
-- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
-- [Setting Up Vulnerable VMs in Azure](https://github.com/franciscovfonseca/Setting-Up-Vulnerable-VMs-in-Azure/blob/main/README.md)
-- [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
+> - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
+> - [Setting Up Vulnerable VMs in Azure](https://github.com/franciscovfonseca/Setting-Up-Vulnerable-VMs-in-Azure/blob/main/README.md)
+> - [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
+> 
+> 
+> <details close> 
+>   
+> **<summary>Vulnerability Management</summary>**
+> 
+>  - [Vulnerability Management with Nessus](https://github.com/franciscovfonseca/Vulnerability-Management-with-Nessus/blob/main/README.md)
+> 
+> </details>
 
-
-<details close> 
-  
-**<summary>Vulnerability Management</summary>**
-
-  - [Vulnerability Management with Nessus](https://github.com/franciscovfonseca/Vulnerability-Management-with-Nessus/blob/main/README.md)
-
-</details>
-
-<h2></h2>
 
 <h3>☁️ Microsoft Azure:</h3>
 
-  <details close> 
-  
-**<summary>Cloud Security</summary>**
+>   <details close> 
+>   
+> **<summary>Cloud Security</summary>**
+> 
+>   - [Configure Azure Disk Encryption](https://github.com/franciscovfonseca/Configure-Azure-Disk-Encryption/blob/main/README.md)
+>   - [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
+> 
+>   </details>
+> 
+>   <details close> 
+>   
+> **<summary>Networking</summary>**
+> 
+>   - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
+>   - [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
+> 
+>   </details>
 
-  - [Configure Azure Disk Encryption](https://github.com/franciscovfonseca/Configure-Azure-Disk-Encryption/blob/main/README.md)
-  - [Azure Secure Data & Applications](https://github.com/franciscovfonseca/Azure-Secure-Data-and-Applications/blob/main/README.md)
-
-  </details>
-
-  <details close> 
-  
-**<summary>Networking</summary>**
-
-  - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
-  - [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
-
-  </details>
-
-<h2></h2>
 
 <h3>💻 Information Technology:</h3>
 
-- [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-- [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
+> - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
+> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
-<h2></h2>
 
 <h3>🌐 Active Directory:</h3>
 
-1. [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
-2. [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
-3. [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
+> 1. [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
+> 2. [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+> 3. [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
 <br>
 
   
