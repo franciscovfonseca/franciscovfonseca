@@ -19,7 +19,7 @@
 
 <h3>☁️ Microsoft Azure:</h3>
 
->   <details close> 
+> <details close> 
 >   
 > **<summary>Cloud Security</summary>**
 > 
@@ -30,7 +30,7 @@
 > 
 >   <details close> 
 >   
-> **<summary>Networking</summary>**
+> **<summary>Cloud Networking</summary>**
 > 
 >   - [Configure Virtual Network Connectivity by using Peering](https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/blob/main/README.md)
 >   - [Configure an Application Security Group](https://github.com/franciscovfonseca/Configure-an-Application-Security-Group/blob/main/README.md)
@@ -38,17 +38,24 @@
 >   </details>
 
 
-<h3>💻 Information Technology:</h3>
-
-> - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
-> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
-
-
 <h3>🌐 Active Directory:</h3>
 
+> - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
+> 
+>  <details close>
+>   
+> **<summary>Prerequisites</summary>** 
+>   
 > 1. [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
 > 2. [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
 > 3. [Active Directory: User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
+> 
+>   </details>
+
+
+<h3>💻 Information Technology:</h3>
+
+> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 <br>
 
   
