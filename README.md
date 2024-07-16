@@ -24,10 +24,10 @@
 > 
 >  <details close>
 >   
-> **<summary>Azure AD Configuration & User Creation</summary>** 
+> **<summary>AD Configuration & User Creation</summary>** 
 >   
-> 1. [Active Directory Setup and Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
-> 2. [Active Directory Deployment and Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+> 1. [Active Directory Setup & Network Traffic Analysis between Azure VMs](https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md)
+> 2. [Active Directory Deployment & Configuration](https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
 > 3. [Active Directory User Generation with PowerShell](https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md)
 > 
 >   </details>
