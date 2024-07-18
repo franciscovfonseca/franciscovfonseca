@@ -13,8 +13,8 @@
 > **<summary>Vulnerability Management</summary>**
 > 
 > - [Vulnerability Management Lab with OpenVAS & Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
-> - [Vulnerability Management Lab with Nessus](https://github.com/franciscovfonseca/Vulnerability-Management-with-Nessus/blob/main/README.md)
 > - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
+> - [Vulnerability Management Lab with Nessus](https://github.com/franciscovfonseca/Vulnerability-Management-with-Nessus/blob/main/README.md)
 > 
 > </details>
 
