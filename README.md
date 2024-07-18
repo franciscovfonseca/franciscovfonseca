@@ -74,8 +74,8 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42"><img src="https://img.shields.io/badge/-AI--900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42"><img src="https://img.shields.io/badge/-SC--900-00599C?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
-<br>
 
+<br>
 
 <h2> 🤳 Connect with me:</h2>
 
