@@ -64,7 +64,7 @@
 <br>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42">
-    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="145" height="145"/>
+    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42">
     <img src="https://github.com/user-attachments/assets/3bfbe9b2-1dca-4523-a2d2-e858b6e98c17" alt="AI-900" width="140" height="140"/>
