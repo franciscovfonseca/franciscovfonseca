@@ -83,7 +83,7 @@
   - [**AZ-500** - **Azure Security Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
   - [**AI-900** - **Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
   - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
-  - [**CompTIA Security +**]()
+  - [**CompTIA Security +**](https://github.com/franciscovfonseca)
 
 <br>
 
