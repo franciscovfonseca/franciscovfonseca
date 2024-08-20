@@ -5,16 +5,13 @@
 
 > - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
 > - [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Azure-Incident-Response/blob/main/README.md)
-> 
-> 
-> <details close> 
->   
-> **<summary>Vulnerability Management</summary>**
-> 
+
+<br>
+
+<h3>🛡️ Vulnerability Management:</h3>
+
 > - [Vulnerability Management Lab with OpenVAS & Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
 > - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
-> 
-> </details>
 
 <br>
 
