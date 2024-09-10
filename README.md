@@ -13,14 +13,18 @@
 > 2. 🛡️ [Secure Cloud Configuration - Part 1 ➜ Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
 > 3. 🛡️ [Secure Cloud Configuration - Part 2 ➜ Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
 > 
+> <br>
+> 
 >   </details>
+>  
+> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <br>
 
 <h3>🚩 Vulnerability Management:</h3>
 
 > - [Vulnerability Management Lab with OpenVAS & Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
-> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
+> - [Vulnerability Management Lifecycle within an Organization](https://github.com/franciscovfonseca/Vulnerability-Management-Lifecycle/blob/main/README.md)
 
 <br>
 
