@@ -23,7 +23,7 @@
 
 <h3>🚩 Vulnerability Management:</h3>
 
-> - [Vulnerability Management Lab with OpenVAS & Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
+> - [Vulnerability Management Lab with OpenVAS & Microsoft Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
 > - [Vulnerability Management Lifecycle within an Organization](https://github.com/franciscovfonseca/Vulnerability-Management-Lifecycle/blob/main/README.md)
 
 <br>
