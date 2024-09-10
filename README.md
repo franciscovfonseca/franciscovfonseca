@@ -10,7 +10,7 @@
 > **<summary>BONUS LABS: Incident Response & Secure Cloud Configuration</summary>** 
 >   
 > 1. 📝 [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
-> 2. 🛡️ [Secure Cloud Configuration - Part 1 ➜ Regulatory Compliance (NIST 800-53)](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
+> 2. 🛡️ [Secure Cloud Configuration - Part 1 ➜ Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
 > 3. 🛡️ [Secure Cloud Configuration - Part 2 ➜ Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
 > 
 >   </details>
