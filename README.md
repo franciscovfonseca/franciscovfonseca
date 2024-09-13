@@ -3,30 +3,33 @@
 <h2>👨‍💻 Projects:</h2>
 <h3>🔐 Cybersecurity:</h3>
 
-> - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
->
-> <details close>
+- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
+
+>  <details close>
 >   
-> **<summary>BONUS LABS: Incident Response & Secure Cloud Configuration</summary>** 
+> **<summary>Incident Response & Secure Cloud Environment:</summary>**
 >   
 > 1. 📝 [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
-> 2. 🛡️ [Secure Cloud Configuration - Part 1 ➜ Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
-> 3. 🛡️ [Secure Cloud Configuration - Part 2 ➜ Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response/blob/main/README.md)
-> 
-> <br>
+> 2. 🛡️ [Secure Cloud Configuration - Part 1 ➜ Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-1/blob/main/README.md)
+> 3. 🛡️ [Secure Cloud Configuration - Part 2 ➜ Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-2/blob/main/README.md)
 > 
 >   </details>
->  
-> - [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <br>
+
+<h2></h2>
 
 <h3>🚩 Vulnerability Management:</h3>
 
 > - [Vulnerability Management Lab with OpenVAS & Microsoft Azure](https://github.com/franciscovfonseca/Vulnerability-Management-Lab/blob/main/README.md)
 > - [Vulnerability Management Lifecycle within an Organization](https://github.com/franciscovfonseca/Vulnerability-Management-Lifecycle/blob/main/README.md)
+>
+
+- [Setting Up MFA and Protecting RDP Using Duo](https://github.com/franciscovfonseca/Setting-Up-MFA-and-Protecting-RDP/blob/main/README.md)
 
 <br>
+
+<h2></h2>
 
 <h3>🌐 Active Directory:</h3>
 
@@ -43,6 +46,8 @@
 >   </details>
 
 <br>
+
+<h2></h2>
 
 <h3>☁️ Microsoft Azure:</h3>
 
