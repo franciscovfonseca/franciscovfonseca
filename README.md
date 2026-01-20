@@ -4,7 +4,7 @@
 
 <h3>🔒  AI Security</h3>
 
-- [Governing a High-Risk AI System with Responsible AI Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System/blob/main/README.md)
+- [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System/blob/main/README.md)
 
 <br>
 <h2></h2>
