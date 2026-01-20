@@ -1,7 +1,15 @@
 <h1>Hi I'm Francisco, a <a href="https://linkedin.com/in/franciscovfonseca">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>🔐 Cybersecurity:</h3>
+
+<h3>🔒  AI Security</h3>
+
+- [Governing a High-Risk AI System with Responsible AI Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System/blob/main/README.md)
+
+<br>
+<h2></h2>
+
+<h3>☁️ Cloud Security:</h3>
 
 - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC/blob/main/README.md)
 
