@@ -24,7 +24,7 @@
 
 <br>
 
-  - [**CISSP** - **Certified in Information and Systems Security Professional**](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
+  - [**CISSP** - **Certified Information and Systems Security Professional**](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
   - [**AZ-500** - **Azure Security Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
   - [**AI-900** - **Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
   - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
