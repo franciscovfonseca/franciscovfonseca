@@ -1,5 +1,38 @@
 <h1>Hi I'm Francisco, a <a href="https://linkedin.com/in/franciscovfonseca">Cybersecurity Professional</a></h1>
 
+<h2>🏅 Certifications:</h2>
+
+<br>
+
+<a href="https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile">
+    <img src="https://github.com/user-attachments/assets/b16f3940-26f7-443e-81e3-eca3f2c0e46b" alt="CISSP" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/3bfbe9b2-1dca-4523-a2d2-e858b6e98c17" alt="AI-900" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/271d1f80-7a68-40f8-b861-fba611f7b264" alt="SC-900" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/franciscovfonseca">
+    <img src="https://github.com/user-attachments/assets/b9f723c5-471a-4ad4-b533-567291ae4e5b" alt="Comptia Security +" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+<br>
+
+  - [**CISSP** - **Certified in Information and Systems Security Professional**](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
+  - [**AZ-500** - **Azure Security Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
+  - [**AI-900** - **Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
+  - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
+  - [**CompTIA Security +**](https://github.com/franciscovfonseca)
+
+
+<br>
+
 <h2>👨‍💻 Projects:</h2>
 
 <h3>🔒  AI Security</h3>
@@ -85,6 +118,9 @@
 
 <br>
 
+<a href="https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile">
+    <img src="https://github.com/user-attachments/assets/b16f3940-26f7-443e-81e3-eca3f2c0e46b" alt="CISSP" width="140" height="140"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42">
     <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="140" height="140"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -102,6 +138,7 @@
 
 <br>
 
+  - [**CISSP** - **Certified in Information and Systems Security Professional**](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
   - [**AZ-500** - **Azure Security Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
   - [**AI-900** - **Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
   - [**SC-900** - **Microsoft Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/70E48D637DAB706F?sharingId=EB3443383FE1C42)
