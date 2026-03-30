@@ -37,9 +37,18 @@
 
 <h3>🔒  AI Security</h3>
 
+> [Agentic AI Security - GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/tree/main)
+> 
+>  <details close>
+>   
+> [Remediation Guide - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/remediation-guide.md)
+> 
+> [Vulnerability Report - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/vulnerability-report.md)
+> 
+>   </details>
 
-- [Agentic AI Security - GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/README.md)
-  
+ <br>
+ 
 - [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System/blob/main/README.md)
 
 <br>
@@ -77,7 +86,7 @@
 
 <h3>🌐 Active Directory:</h3>
 
-> - [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
+> [Active Directory: Practical Scenario Simulation](https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/blob/main/README.md)
 > 
 >  <details close>
 >   
