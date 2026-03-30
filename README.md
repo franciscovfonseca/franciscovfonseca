@@ -38,7 +38,7 @@
 <h3>🔒  AI Security</h3>
 
 
-- [Agentic AI Security - GenAI Vulnerability Assessment] (https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/README.md)
+- [Agentic AI Security - GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/README.md)
   
 - [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System/blob/main/README.md)
 
