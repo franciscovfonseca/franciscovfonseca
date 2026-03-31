@@ -31,10 +31,10 @@
 
 <br>
 
-- [**CISSP** — Certified Information Systems Security Professional](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
-- [**SC-100** — Microsoft Cybersecurity Architect](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/DDD457FC4E999CF7?sharingId=EB3443383FE1C42)
-- [**AZ-500** — Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
-- [**AI-900** — Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
+- [**CISSP** - Certified Information Systems Security Professional](https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile)
+- [**SC-100** - Microsoft Cybersecurity Architect](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/DDD457FC4E999CF7?sharingId=EB3443383FE1C42)
+- [**AZ-500** - Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42)
+- [**AI-900** - Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42)
 - [**CompTIA Security+**](https://github.com/franciscovfonseca)
 
 </details>
@@ -47,15 +47,15 @@
 
 <h3>🤖 AI Security</h3>
 
-- [**Cybersecurity News Intelligence Agent** — AI-powered news aggregator with threat prioritization](https://github.com/franciscovfonseca/Cybersecurity-News-Agent)
+- [**Cybersecurity News Intelligence Agent** - AI-powered news aggregator with threat prioritization](https://github.com/franciscovfonseca/Cybersecurity-News-Agent)
 
-- [**Agentic AI Security** — GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent)
+- [**Agentic AI Security** - GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent)
 
    <details>
    <summary>View related documentation</summary>
 
-   - [Remediation Guide — GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/remediation-guide.md)
-   - [Vulnerability Report — GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/vulnerability-report.md)
+   - [Remediation Guide - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/remediation-guide.md)
+   - [Vulnerability Report - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/vulnerability-report.md)
 
    </details>
 
@@ -67,14 +67,14 @@
 
 <h3>☁️ Cloud Security</h3>
 
-- [**Azure Honeynet & SOC** — Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC)
+- [**Azure Honeynet & SOC** - Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC)
 
    <details>
    <summary>Incident Response & Secure Cloud Environment</summary>
 
    1. [Incident Response Documentation on Findings](https://github.com/franciscovfonseca/Working-Incidents-and-Incident-Response)
-   2. [Secure Cloud Configuration — Part 1: Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-1)
-   3. [Secure Cloud Configuration — Part 2: Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-2)
+   2. [Secure Cloud Configuration - Part 1: Regulatory Compliance with NIST 800-53](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-1)
+   3. [Secure Cloud Configuration - Part 2: Implement NIST 800-53 SC-7 Security Controls](https://github.com/franciscovfonseca/Securing-SOC-Environment-Part-2)
 
    </details>
 
