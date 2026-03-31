@@ -1,6 +1,6 @@
 <h1>Hi, I'm Francisco 👋</h1>
 
-<h3>Cybersecurity Professional focused on Cloud Security, AI Security & GRC</h3>
+<h3>Cybersecurity Professional focused on AI Security, Cloud Security & GRC</h3>
 
 <br>
 
