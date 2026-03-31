@@ -26,6 +26,8 @@
 
 <br>
 
+<br>
+
 <details>
 <summary><strong>View certification details</strong></summary>
 
@@ -49,6 +51,8 @@
 
 - [**Cybersecurity News Intelligence Agent** - AI-powered news aggregator with threat prioritization](https://github.com/franciscovfonseca/Cybersecurity-News-Agent)
 
+<br>
+
 - [**Agentic AI Security** - GenAI Vulnerability Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent)
 
    <details>
@@ -58,6 +62,8 @@
    - [Vulnerability Report - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/vulnerability-report.md)
 
    </details>
+
+<br>
 
 - [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System)
 
