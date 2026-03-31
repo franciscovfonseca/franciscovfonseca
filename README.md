@@ -65,6 +65,10 @@
 
 <br>
 
+- [**AI System Inventory** - Centralized tracking of AI/ML systems for governance and compliance](https://github.com/franciscovfonseca/AI-System-Inventory)
+
+<br>
+
 - [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System)
 
 <br>
