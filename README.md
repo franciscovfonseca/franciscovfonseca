@@ -47,6 +47,12 @@
 
 <h2>👨‍💻 Projects</h2>
 
+<h3>📝 AI Governance</h3>
+
+- [**AI System Inventory** - Centralized tracking of AI/ML systems for governance and compliance](https://github.com/franciscovfonseca/AI-System-Inventory)
+
+<br>
+
 <h3>🤖 AI Security</h3>
 
 - [**Cybersecurity News Intelligence Agent** - AI-powered news aggregator with threat prioritization](https://github.com/franciscovfonseca/Cybersecurity-News-Agent)
@@ -63,9 +69,7 @@
 
    </details>
 
-<br>
 
-- [**AI System Inventory** - Centralized tracking of AI/ML systems for governance and compliance](https://github.com/franciscovfonseca/AI-System-Inventory)
 
 <br>
 
