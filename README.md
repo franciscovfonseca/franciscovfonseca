@@ -49,9 +49,18 @@
 
 <h3>📝 AI Governance</h3>
 
-- [**AI System Inventory** - Centralized tracking of AI/ML systems for governance and compliance](https://github.com/franciscovfonseca/AI-System-Inventory)
+**NorthPoint Financial Services - End-to-End AI Governance Programme:**
+
+- [**Phase 1 - AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
+- [**Phase 2 - AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
 
 <br>
+
+- [**Responsible AI Governance** - Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System)
+
+<br>
+
+---
 
 <h3>🤖 AI Security</h3>
 
@@ -68,12 +77,6 @@
    - [Vulnerability Report - GenAI Security Assessment](https://github.com/franciscovfonseca/GenAI-Security-Agent/blob/main/docs/vulnerability-report.md)
 
    </details>
-
-
-
-<br>
-
-- [Governing a High-Risk AI System with Responsible AI Security Controls](https://github.com/franciscovfonseca/Responsible-AI-Governancing-High-Risk-AI-System)
 
 <br>
 
@@ -146,6 +149,11 @@
 ---
 
 <h2>🤳 Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/franciscovfonseca/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 <a href="https://www.linkedin.com/in/franciscovfonseca/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
