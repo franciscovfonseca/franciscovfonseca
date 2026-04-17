@@ -53,6 +53,7 @@
 
 - [**Phase 1 - AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
 - [**Phase 2 - AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
+- [**Phase 3 - Responsible AI Policy & Governance Framework** - Policy, operating model and controls implementation plan](https://github.com/franciscovfonseca/AI-Governance-Policy)
 
 <br>
 
@@ -153,4 +154,3 @@
 <a href="https://www.linkedin.com/in/franciscovfonseca/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
