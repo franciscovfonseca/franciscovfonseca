@@ -8,21 +8,24 @@
 
 <br>
 
-<a href="https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile">
-    <img src="https://github.com/user-attachments/assets/b16f3940-26f7-443e-81e3-eca3f2c0e46b" alt="CISSP" width="130" height="130"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/DDD457FC4E999CF7?sharingId=EB3443383FE1C42">
-    <img src="https://github.com/user-attachments/assets/4159b918-c350-4ede-8850-5c90055186c9" width="130" height="130"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42">
-    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="130" height="130"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42">
-    <img src="https://github.com/user-attachments/assets/3bfbe9b2-1dca-4523-a2d2-e858b6e98c17" alt="AI-900" width="130" height="130"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/franciscovfonseca">
-    <img src="https://github.com/user-attachments/assets/b9f723c5-471a-4ad4-b533-567291ae4e5b" alt="CompTIA Security+" width="130" height="130"/>
-</a>
+<p>
+  <a href="https://www.credly.com/badges/29d328f3-6dc7-4f7a-aa78-a0ecbdeecefa/linked_in_profile">
+    <img src="https://github.com/user-attachments/assets/b16f3940-26f7-443e-81e3-eca3f2c0e46b" alt="CISSP" width="115" style="margin-right: 25px;"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/DDD457FC4E999CF7?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/4159b918-c350-4ede-8850-5c90055186c9" alt="SC-100" width="115" style="margin-right: 25px;"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/796BAAF958DE0545?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/7b2d1e28-4c8a-4421-86b0-13828b86a912" alt="AZ-500" width="115" style="margin-right: 25px;"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/FranciscoFonseca-1031/1F52490630D1FDBC?sharingId=EB3443383FE1C42">
+    <img src="https://github.com/user-attachments/assets/3bfbe9b2-1dca-4523-a2d2-e858b6e98c17" alt="AI-900" width="115" style="margin-right: 25px;"/>
+  </a>
+  <a href="https://github.com/franciscovfonseca">
+    <img src="https://github.com/user-attachments/assets/b9f723c5-471a-4ad4-b533-567291ae4e5b" alt="Security+" width="115"/>
+  </a>
+</p>
+
 
 <br>
 
@@ -53,7 +56,7 @@
 
 - [**Phase 1 - AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
 - [**Phase 2 - AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
-- [**Phase 3 - Responsible AI Policy & Governance Framework** - Policy, operating model and controls implementation plan](https://github.com/franciscovfonseca/AI-Governance-Policy)
+- [**Phase 3 - Responsible AI Policy and Governance Framework** - Policy, operating model and controls implementation plan](https://github.com/franciscovfonseca/AI-Governance-Policy)
 
 <br>
 
@@ -154,3 +157,5 @@
 <a href="https://www.linkedin.com/in/franciscovfonseca/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+
