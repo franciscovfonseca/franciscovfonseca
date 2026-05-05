@@ -51,11 +51,11 @@
 
 **NorthPoint Financial Services - End-to-End AI Governance Programme:**
 
-- [**Phase 1 - AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
-- [**Phase 2 - AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
-- [**Phase 3 - Responsible AI Policy and Governance Framework** - Policy, operating model and controls implementation plan](https://github.com/franciscovfonseca/AI-Governance-Policy)
-- [**Phase 4 - AI Incident Response and Regulatory Escalation** - End-to-end response to a live AI bias incident including FCA and ICO notification](https://github.com/franciscovfonseca/AI-Incident-Response)
-- [**Phase 5 - High-Risk AI Technical Documentation** - EU AI Act Annex IV documentation pack for two HIGH RISK financial services AI systems](https://github.com/franciscovfonseca/AI-High-Risk-Documentation)
+- [**AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
+- [**AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
+- [**Responsible AI Policy and Governance Framework** - Policy, operating model and controls implementation plan](https://github.com/franciscovfonseca/AI-Governance-Policy)
+- [**AI Incident Response and Regulatory Escalation** - End-to-end response to a live AI bias incident including FCA and ICO notification](https://github.com/franciscovfonseca/AI-Incident-Response)
+- [**High-Risk AI Technical Documentation** - EU AI Act documentation pack for two HIGH RISK financial services AI systems](https://github.com/franciscovfonseca/AI-High-Risk-Documentation)
 
 <br>
 
