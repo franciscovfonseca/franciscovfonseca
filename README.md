@@ -49,7 +49,7 @@
 
 <h3>📝 AI Governance</h3>
 
-**NorthPoint Financial Services - End-to-End AI Governance Programme:**
+**End-to-End AI Governance Programme - NorthPoint Financial Services**
 
 - [**AI System Inventory** - Centralized inventory and EU AI Act risk classification of production AI systems](https://github.com/franciscovfonseca/AI-System-Inventory)
 - [**AI Risk Assessment** - Full risk assessment for HIGH RISK systems under EU AI Act Article 9](https://github.com/franciscovfonseca/AI-Risk-Assessment)
