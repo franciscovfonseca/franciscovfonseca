@@ -85,6 +85,16 @@
 
 ---
 
+<h3>🧪 Built from Scratch</h3>
+
+Original, runnable security labs built to make the threat, control and evidence easy to inspect.
+
+- [**Secure AI Triage Lab** - Offline prompt-injection defense for an AI-assisted support workflow, with attack evidence, human approval gates and executable tests](https://github.com/franciscovfonseca/secure-ai-triage-lab)
+
+<br>
+
+---
+
 <h3>☁️ Cloud Security</h3>
 
 - [**Azure Honeynet & SOC** - Cyber Attacks in Real Time](https://github.com/franciscovfonseca/Azure-Honey-Net-SOC)
